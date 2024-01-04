@@ -4,9 +4,9 @@ title: Jongkwon Ha's page
 ---
 
 
-Text
-**Bold**
-`Code`
+Text\
+**Bold**\
+`Code`\
 [Link](https://jongkwonha.github.io/)
 * Bullet text
 
